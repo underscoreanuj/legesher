@@ -1,3 +1,5 @@
+# this will need to be a .cson file
+
 'name': 'legesher-{LANGUAGE}'
 'scopeName': 'text.legesher-{LANGUAGE}'
 'type': 'tree-sitter'

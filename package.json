@@ -26,5 +26,8 @@
   },
   "dependencies": {
     "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "tree-sitter-legesher-python": "^0.14.0"
   }
 }
