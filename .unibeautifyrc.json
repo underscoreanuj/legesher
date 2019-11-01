@@ -21,5 +21,23 @@
       "Black",
       "YAPF"
     ]
-  }
+  },
+  "JSON": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify"
+    ]
+  },
+  "Markdown": {
+    "beautifiers": [
+      "Prettier"
+    ]
+  },
+  "Less": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff"
+    ]
+  } 
 }

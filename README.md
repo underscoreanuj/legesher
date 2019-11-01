@@ -5,6 +5,7 @@
 <p align="center">Programming with <b>Legesher</b>'s dev tools empowers any developer to create without losing the art of innovation 💡, creativity 🎨, or collaboration 🤝 in translation. </p>
 
 <!-- DEVELOPMENT BADGES -->
+
 <p align="center" style="margin-bottom: 5px; margin-top: 5px;">
     <!-- Commenting out the build status until we have our first version released
     <a href="https://travis-ci.com/legesher/legesher">
@@ -54,7 +55,7 @@
             alt="Read on Medium"></a>
     <a href="https://legesher.io">
         <img src="https://img.shields.io/badge/-Subscribe-black?style=flat-square&logo=mailchimp&logoColor=7ed2e7"
-            alt="Subscribe on Mailchimp"></a>    
+            alt="Subscribe on Mailchimp"></a>
 </p>
 <!-- SOCIAL MEDIA -->
 
@@ -153,10 +154,10 @@ npm test
 
 Legesher Developer Tools might be useful to you if:
 
-- you are a non-native english speaker
-- you are new to programming
-- you work on a team with non-native english speakers
-- you are a developer (simple enough)
+* you are a non-native english speaker
+* you are new to programming
+* you work on a team with non-native english speakers
+* you are a developer (simple enough)
 
 | Project                                                                                  | Purpose                                                                                                   |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -181,6 +182,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
